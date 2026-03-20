@@ -4,4 +4,5 @@ To use this template:
   1. Create a new repository on Github and select this template under the template drop-down.
   2. Clone the repository
   3. Install npm using 'npm install'
-  4. Run 'npm build'
+  4. Run 'npm run build'
+  5. Replace 'filename' in 'test/filename.test.js' with the name of your file. 
