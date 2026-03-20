@@ -21,6 +21,7 @@
   "homepage": "https://github.com/TomTatertot/webpack-template#readme",
   "description": "",
   "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
     "@eslint/css": "^0.11.0",
     "@eslint/js": "^9.35.0",
     "@types/jest": "^30.0.0",
